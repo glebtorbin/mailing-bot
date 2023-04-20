@@ -1,0 +1,11 @@
+aiogram==2.23.1
+alembic==1.8.1
+asyncmy==0.2.7
+databases==0.6.2
+SQLAlchemy==1.4.41
+sqlalchemy-repr==0.0.2
+XlsxWriter==3.0.8
+openpyxl==3.1.1
+requests==2.28.2
+APScheduler==3.10.0
+python-socks[asyncio]
